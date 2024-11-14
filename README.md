@@ -3,7 +3,7 @@
 
 <h1 align="left">
   <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif">
-  Richard Jong</h1>
+  Jacky Karongkong</h1>
 
 **`Digital Craftsman | Web Developer | Backend Developer`**
 
