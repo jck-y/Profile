@@ -6,7 +6,6 @@
   Jacky Karongkong</h1>
 
 <h3 align="center">Digital Craftsman</h3>
-<br/>
 
 <!-- <img style="margin-left: 20px" align="right" width="400" src="https://github.com/jck-y/jck-y/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf" alt="Millenium Falcon"> -->
 
