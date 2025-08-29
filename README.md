@@ -1,16 +1,16 @@
-<!-- # <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif"> Richard Jong -->
-<!-- # <img width="30" src="https://cdn3.emoji.gg/emojis/46910-na-crownowner.png"> Richard Jong -->
+<!-- # <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif"> Jacky Karongkong -->
+<!-- # <img width="30" src="https://cdn3.emoji.gg/emojis/46910-na-crownowner.png"> Jacky Karongkong -->
 
-<h1 align="left">
+<h1 align="left">w
   <img width="30" src="https://cdn3.emoji.gg/emojis/84541-meat.gif">
   Jacky Karongkong</h1>
 
-**`Digital Craftsman | Web Developer | Backend Developer`**
-
+<h3 align="center">Digital Craftsman</h3>
 <br/>
 
+<!-- <img style="margin-left: 20px" align="right" width="400" src="https://github.com/jck-y/jck-y/assets/116330103/625c1679-0284-4a81-bbc9-cf029afbf7bf" alt="Millenium Falcon"> -->
 
-
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering. My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
 
@@ -39,9 +39,9 @@
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaddjong&show_icons=true&theme=tokyonight&locale=en" alt="chaddjong" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jck-y&show_icons=true&theme=tokyonight&locale=en" alt="jck-y" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaddjong&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="chaddjong" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jck-y&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jck-y" /></p>
 
 <!--
 <img align="left" alt="HTML" width="40px" style="padding-right: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
