@@ -6,7 +6,7 @@
   Jacky Karongkong</h1>
 
 <h3 align="center">Savior of Digital Native</h3>
-<!-- <img style="margin-left: 20px" align="right" width="400" src="https://art.pixilart.com/11cde8a96d05769.gif" alt="Millenium Falcon"> -->
+<!-- <img style="margin-left: 20px" align="right" width="400" src="https://github.com/jck-y/Profile/issues/1#issue-3365926319" alt="Millenium Falcon"> -->
 
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
