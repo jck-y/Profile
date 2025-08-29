@@ -11,9 +11,11 @@
 
 <img src="https://art.pixilart.com/11cde8a96d05769.gif" alt="Millenium Falcon">
 
-👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering. My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
+👋 Hi there! Welcome to my digital workspace. I'm a full-stack developer focusing on web development and cloud solutions. Currently exploring the MERN stack while pursuing my Computer Science degree. I believe in writing clean, efficient code and creating user-centric applications that make a difference.
 
-📫 Let's connect! Reach out for collaboration opportunities, project ideas, or to discuss the latest tech trends.
+💡 Always eager to learn new technologies and best practices in software development. Currently working on personal projects to enhance my skills in React.js and Node.js.
+
+📫 Let's collaborate! Feel free to reach out for project discussions, code reviews, or just to chat about tech innovations. Open to internship and learning opportunities.
 <div align="left"> 
   <a href="mailto:j13karongkong@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
