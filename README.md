@@ -9,7 +9,8 @@
 
 <!-- <img style="margin-left: 20px" align="right" width="400" src="https://github.com/jck-y/Profile/issues/1#issue-3365926319" alt="Millenium Falcon"> -->
 
-<img src="https://art.pixilart.com/11cde8a96d05769.gif" alt="Millenium Falcon">
+// filepath: c:\J\Project\Profile\README.md
+<img src="./assets/11cde8a96d05769-ezgif.com-crop.gif" alt="Millennium Falcon">
 
 👋 Hi there! Welcome to my digital workspace. I'm a full-stack developer focusing on web development and cloud solutions. Currently exploring the MERN stack while pursuing my Computer Science degree. I believe in writing clean, efficient code and creating user-centric applications that make a difference.
 
