@@ -6,9 +6,8 @@
   Jacky Karongkong</h1>
 
 <h3 align="center">Savior of Digital Native</h3>
-<!-- <img style="margin-left: 20px" align="right" width="400" src="https://github.com/jck-y/Profile/issues/1#issue-3365926319" alt="Millenium Falcon"> -->
 
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+<img style="margin-left: 20px" align="right" width="400" src="https://github.com/jck-y/Profile/issues/1#issue-3365926319" alt="Millenium Falcon">
 
 👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering. My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
 
