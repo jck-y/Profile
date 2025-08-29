@@ -9,7 +9,7 @@
 
 <!-- <img style="margin-left: 20px" align="right" width="400" src="https://github.com/jck-y/Profile/issues/1#issue-3365926319" alt="Millenium Falcon"> -->
 
-<img src="https://github.com/jck-y/Profile/issues/1#issue-3365926319" alt="Millenium Falcon">
+<img src="https://art.pixilart.com/11cde8a96d05769.gif" alt="Millenium Falcon">
 
 👋 Hi there fellas! Welcome to my workstation. I'm a passionate developer and tech enthusiast exploring the vast world of software engineering. My coding journey is adventurous, driven by curiosity and a thirst for learning. From algorithm tinkering to crafting elegant code, I thrive on pushing boundaries.
 
